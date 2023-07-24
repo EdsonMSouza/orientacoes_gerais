@@ -50,23 +50,24 @@ Os materiais de apoio estarão disponíveis ao longo do semestre, seguindo o cro
 
 Outro ponto importante é que os materiais disponibilizados no Google Classroom serão complementares às aulas presenciais ou telepresenciais, oferecendo uma visão mais ampla e abrangente dos temas estudados. Por isso, incentivamos a utilização desses recursos para enriquecer sua formação acadêmica e favorecer o desenvolvimento das habilidades necessárias para o seu crescimento profissional.
 
-## 2.1 Dúvidas e Contato
+## 3. Dúvidas e Contato
+
 Visando facilitar a comunicação e o esclarecimento de dúvidas ao longo do semestre, utilize as ferramentas de contato diretamente no Google Classroom. Sinta-se à vontade para utilizar esses recursos para conversar comigo fora do horário das aulas. Estarei disponível para responder suas dúvidas, oferecer orientações e auxiliar no que for necessário para o seu melhor aproveitamento no curso. Acredito que essa interação contínua será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
 
 Não hesite em entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para o aprimoramento do conteúdo e da dinâmica das aulas. A sua participação é muito valiosa e contribuirá para aprimorarmos ainda mais o processo de ensino-aprendizagem. Conto com o seu engajamento e disposição para aproveitar ao máximo essa oportunidade de aprendizado. Juntos, faremos deste semestre uma experiência enriquecedora e proveitosa para todos.
 
 Estou ansioso(a) para auxiliá-lo(a) em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do curso.
 
-## 3. Links Interessantes
+## 4. Links Interessantes
 
 * [Youtube (Edson M. Souza)](https://youtu.be/aqErh3MlJsE) - Diversos tutoriais
 * [School of Net](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - Controle de versão (Github)
 * [Programação](https://www.w3schools.com/) - Cursos para diversas linguagens de programação
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 Você pode acessar milhares de _e-books_, artigos e livros completos na biblioteca virtual da universidade, através da Central do Aluno.
 
-## 5. Curso de Inglês
+## 6. Curso de Inglês
 
 Da mesma forma que você pode acessar diversos materiais de forma gratuita através da Central do Aluno, também está disponível um curso de inglês da plataforma Voxy.
