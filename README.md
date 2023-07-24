@@ -38,16 +38,35 @@ Para as atividades AO1 e AO2, a entrega __só será aceita durante o período da
 
 Por fim, eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada,buscando sempre não prejudicar o aluno.
 
-## 2. Links Interessantes
+## 2. Materiais de Apoio
+
+Com o objetivo de facilitar o aprendizado e garantir um suporte adequado, os materiais serão disponibilizados de acordo com o andamento das aulas ao longo do semestre no Google Classroom.
+
+Serão disponibilizados os recursos necessários de forma organizada e progressiva, para que os alunos possam acompanhar o conteúdo de maneira eficiente e consistente. Dessa forma, cada material estará relacionado ao conteúdo apresentado em sala de aula na respectiva semana, permitindo uma conexão direta entre teoria e prática.
+
+As vantagens dessa abordagem são significativas. Primeiramente, você terá a oportunidade de revisar o conteúdo ministrado em sala de aula, reforçando os conceitos aprendidos e esclarecendo eventuais dúvidas. Além disso, os materiais de apoio serão uma valiosa ferramenta para o aprofundamento do conhecimento, ampliando o entendimento dos temas abordados e incentivando a pesquisa e o estudo autônomo.
+
+Os materiais de apoio estarão disponíveis ao longo do semestre, seguindo o cronograma das aulas. Dessa forma, vocês poderão acessá-los de maneira gradual, à medida que avançamos no programa da disciplina. Isso proporcionará uma experiência de aprendizado mais fluída e consistente, permitindo a assimilação progressiva do conteúdo.
+
+Outro ponto importante é que os materiais disponibilizados no Google Classroom serão complementares às aulas presenciais ou telepresenciais, oferecendo uma visão mais ampla e abrangente dos temas estudados. Por isso, incentivamos a utilização desses recursos para enriquecer sua formação acadêmica e favorecer o desenvolvimento das habilidades necessárias para o seu crescimento profissional.
+
+## 2.1 Dúvidas e Contato
+Visando facilitar a comunicação e o esclarecimento de dúvidas ao longo do semestre, utilize as ferramentas de contato diretamente no Google Classroom. Sinta-se à vontade para utilizar esses recursos para conversar comigo fora do horário das aulas. Estarei disponível para responder suas dúvidas, oferecer orientações e auxiliar no que for necessário para o seu melhor aproveitamento no curso. Acredito que essa interação contínua será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
+
+Não hesite em entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para o aprimoramento do conteúdo e da dinâmica das aulas. A sua participação é muito valiosa e contribuirá para aprimorarmos ainda mais o processo de ensino-aprendizagem. Conto com o seu engajamento e disposição para aproveitar ao máximo essa oportunidade de aprendizado. Juntos, faremos deste semestre uma experiência enriquecedora e proveitosa para todos.
+
+Estou ansioso(a) para auxiliá-lo(a) em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do curso.
+
+## 3. Links Interessantes
 
 * [Youtube (Edson M. Souza)](https://youtu.be/aqErh3MlJsE) - Diversos tutoriais
 * [School of Net](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - Controle de versão (Github)
 * [Programação](https://www.w3schools.com/) - Cursos para diversas linguagens de programação
 
-## 3. Bibliografia
+## 4. Bibliografia
 
 Você pode acessar milhares de _e-books_, artigos e livros completos na biblioteca virtual da universidade, através da Central do Aluno.
 
-## 4. Curso de Inglês
+## 5. Curso de Inglês
 
 Da mesma forma que você pode acessar diversos materiais de forma gratuita através da Central do Aluno, também está disponível um curso de inglês da plataforma Voxy.
