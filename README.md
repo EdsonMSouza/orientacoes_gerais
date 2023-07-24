@@ -8,39 +8,35 @@ Abaixo estão algumas orientações sobre critérios de avaliação, dicas de si
 
 ## 1. Critérios de Avaliação
 
-Durante o semestre teremos quatro (4) atividades, onde duas serão com questões objetivas de múltipla escolha, denominadas de __AO__ (Atividade Objetiva) e duas de caráter prático, denominadas de __AP__ (Atividade Prática).
+Durante o semestre, teremos quatro atividades no total. Duas delas serão compostas por questões objetivas de múltipla escolha, chamadas de AO (Atividade Objetiva), e as outras duas serão de caráter prático, denominadas de AP (Atividade Prática).
 
-Todas as atividades serão realizadas de forma __individual__. Desta forma, podemos medir de forma continuada o aprendizado dos alunos, de acordo com o grau de dificuldade de cada uma das atividades . Por este motivo, __cada uma terá um peso diferente__, de acordo com a evolução do semestre, explicado a seguir:
+Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. Cada atividade terá um peso diferente, o qual será determinado com base na evolução do semestre, conforme detalhado a seguir:
 
-* AO1 - 10 questões de múltipla escolha: 100 pontos e __peso 1__;
-* AO2 - 20 questões de múltipla escolha: 100 pontos e __peso 4__.
-* AP1 - Atividade Prática: 100 pontos e __peso 2__;
-* AP2 - Atividade Prática: 100 pontos e __peso 3__;
+* AO1: 10 questões de múltipla escolha, valendo 100 pontos com __peso 1__;
+* AO2: 20 questões de múltipla escolha, valendo 100 pontos com __peso 4__.
+* AP1: Atividade Prática, valendo 100 pontos com __peso 2__;
+* AP2: Atividade Prática, valendo 100 pontos com __peso 3__;
 
-__As atividades serão entregues, sem exceção__ via o Google Classroom da turma. Após a correção e atribuição de nota (no máximo 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota única final com base nos pesos das quatro atividades. Esta nota única será a nota lançada na __Central do Aluno__ como __AV1__ ao final do semestre.
+As atividades deverão ser entregues exclusivamente através do Google Classroom da turma. Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base nos pesos das quatro atividades. Essa nota única será lançada na Central do Aluno como AV1 ao final do semestre.
 
-__Atenção__: Não haverá recuperação para atividades não entregues dentro do prazo estipulado.
+É importante ressaltar que não haverá possibilidade de recuperação para atividades que não forem entregues dentro do prazo estabelecido.
 
-As datas para entrega dos EPs serão informadas, com no mínimo de duas semanas de antecedência, via Google Classroom de cada turma.
+As datas de entrega das Atividades Práticas (AP1 e AP2) serão comunicadas com, pelo menos, duas semanas de antecedência através do Google Classroom de cada turma. Toda comunicação com os alunos ocorrerá via Google Classroom e por e-mail. Portanto, é fundamental verificar diariamente a caixa de e-mail institucional (@uni9.edu.br).
 
-Toda comunicação com os alunos será realizada via Google classroom e pelo e-mail. Portanto, verifique diariamente sua __caixa de e-mail _institucional__.
+A distribuição dos exercícios é a seguinte:
 
-Os exercícios estão distribuídos da seguinte forma:
-
-1. A atitivade AO1 e a atividade AO4 serão desenvolvidas durante o período de aula.
-2. A atividade AP1 e a atividade AP2 terão um prazo de __15 dias__ para a entrega.
+1. As atividades AO1 e AO4 serão desenvolvidas __durante o período de aula__.
+2. As atividades AP1 e AP2 terão um __prazo de 15 dias__ para a entrega.
 
 ### 1.1 Atraso na entrega
 
-As atividades foram distribuídas de forma que não prejudiquem os alunos e permita a realização de _uma avaliação contínua_, principalmente para a atividade AP1 e atividade AP2 que demandam mais tempo para a realização.
+As atividades foram planejadas para não prejudicar os alunos e permitir uma __avaliação contínua__, especialmente para as atividades AP1 e AP2, que requerem mais tempo para realização. Portanto, não será aceita a entrega dessas atividades fora do prazo estipulado, já que cada uma possui um prazo específico de 15 dias.
 
-Desta forma, é importante esclarecer que __não será aceita__ a entrega da atividade AP1 e da atividade AP2 __fora do prazo__, pois, como dito anteriormente, haverá um prazo de 15 dias para realização de cada uma.
+Para as atividades AO1 e AO2, a entrega __só será aceita durante o período da aula__ e não poderá ser realizada posteriormente, exceto nos casos de apresentação de atestado médico comprovando problemas de saúde.
 
-Para as atividades AO1 e AO2, a entrega somente será aceita durante o período da aula, ou seja, __não poderá ser entregue posteriormente__, exceto para os casos onde haja algum tipo de atestado médico (problemas de saúde, por exemplo).
+É importante frisar que a ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a não realização da atividade. Portanto, os alunos devem seguir as orientações e datas disponibilizadas no Google Classroom e se programar adequadamente.
 
-__ATENÇÃO__: É importante destacar que a ausência na aula por motivo de trabalho, reunião ou outra qualquer que não seja de saúde, não caracteriza justificativa para não realização da atividade. Assim, siga as orientações sobre as datas postadas no Google Classroom e se programe.
-
-__Atenção__: Imprevistos podem acontecer e serão tratados individualmente, como no caso de greves de transporte público, clima etc.
+Por fim, eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada,buscando sempre não prejudicar o aluno.
 
 ## 2. Links Interessantes
 
