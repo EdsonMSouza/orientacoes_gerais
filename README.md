@@ -17,15 +17,15 @@ Todas as atividades serão realizadas individualmente, permitindo uma medição 
 * AP1: Atividade Prática, valendo 100 pontos com __peso 2__;
 * AP2: Atividade Prática, valendo 100 pontos com __peso 3__;
 
-As atividades deverão ser entregues exclusivamente através do Google Classroom da turma. Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base nos pesos das quatro atividades. Essa nota única será lançada na Central do Aluno como AV1 ao final do semestre.
+As atividades deverão ser entregues exclusivamente através do Google Classroom da turma. Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base nos pesos das quatro atividades. __Essa nota única será lançada na Central do Aluno como AV1 ao final do semestre__.
 
-É importante ressaltar que não haverá possibilidade de recuperação para atividades que não forem entregues dentro do prazo estabelecido.
+__Atenção__: É importante ressaltar que não haverá possibilidade de recuperação para atividades que não forem entregues dentro do prazo estabelecido.
 
 As datas de entrega das Atividades Práticas (AP1 e AP2) serão comunicadas com, pelo menos, duas semanas de antecedência através do Google Classroom de cada turma. Toda comunicação com os alunos ocorrerá via Google Classroom e por e-mail. Portanto, é fundamental verificar diariamente a caixa de e-mail institucional (@uni9.edu.br).
 
 A distribuição dos exercícios é a seguinte:
 
-1. As atividades AO1 e AO4 serão desenvolvidas __durante o período de aula__.
+1. As atividades AO1 e AO4 serão realizadas __durante o período de aula__.
 2. As atividades AP1 e AP2 terão um __prazo de 15 dias__ para a entrega.
 
 ### 1.1 Atraso na entrega
