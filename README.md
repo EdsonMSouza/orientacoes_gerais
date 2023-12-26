@@ -25,7 +25,7 @@ $$
 **Exemplo**:  Supondo que tenham sido aplicadas 12 atividades, e que o aluno tenha realizado 8 com pontuação máxima de 100 pontos, a nota final será:
 
 $$
-\Huge\text{AV1} = \frac{\text{800}}{\text{1200}} \times 100 = 66\% \rightarrow 7,0
+\Huge\text{AV1} = \frac{\text{800}}{\text{1200}} \times 100 = 66% \rightarrow 7,0
 $$
 
 Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base no valor das atividades realizadas. __Essa nota única resultante será lançada na Central do Aluno como AV1 ao final do semestre__.
