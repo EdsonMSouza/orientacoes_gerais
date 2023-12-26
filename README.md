@@ -16,23 +16,25 @@ Se uma atividade tiver 100 pontos possíveis e o aluno obtiver 80 pontos, a nota
 
 Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula, onde a entrega também contará como presença na aula.
 
-Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base nos pesos das atividades. __Essa nota única será lançada na Central do Aluno como AV1 ao final do semestre__. Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
+Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
 
 $$
-\Huge\text{AV1} = \frac{\text{Pontos obtidos}}{\text{Pontos possíveis}} \times 10
+\Huge\text{AV1} = \frac{\text{Pontos obtidos}}{\text{Pontos possíveis}} \times 100
 $$
 
 **Exemplo**:  Supondo que tenham sido aplicadas 12 atividades, e que o aluno tenha realizado 8 com pontuação máxima de 100 pontos, a nota final será:
 
 $$
-\Huge\text{AV1} = \frac{\text{800}}{\text{1200}} \times 10 = 6,6 \rightarrow 7,0
+\Huge\text{AV1} = \frac{\text{800}}{\text{1200}} \times 100 = 66\% \rightarrow 7,0
 $$
+
+Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base no valor das atividades realizadas. __Essa nota única resultante será lançada na Central do Aluno como AV1 ao final do semestre__.
 
 ## __ATENÇÃO__
 
 * __Não haverá possibilidade de recuperação__ para atividades que não forem entregues durante a aula, exceto para casos onde o aluno possuir qualquer atestado de saúde devidamente aceito pela instiuição. Neste caso, será agendada uma data para realização de avaliação substitutiva
 
-* A ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a não realização da atividade. 
+* A ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a não realização da atividade.
 
 * Eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada,buscando sempre não prejudicar o aluno. Ou seja, caso ocorram imprevistos, a atividade será aplicada na próxima aula.
 
