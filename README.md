@@ -58,9 +58,10 @@ Estou ansioso(a) para auxiliá-lo(a) em sua jornada acadêmica e espero contar c
 
 ## 4. Links Interessantes
 
-* [Youtube (Edson M. Souza)](https://youtu.be/aqErh3MlJsE) - Diversos tutoriais
+* [Youtube (Edson M. Souza)](https://youtu.be/aqErh3MlJsE) - Tutorial Github
 * [School of Net](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - Controle de versão (Github)
 * [Programação](https://www.w3schools.com/) - Cursos para diversas linguagens de programação
+* [Ciência de Dados](https://www.datascienceacademy.com.br/cursosgratuitos) - Cursos de Ciência de Dados gratuitos e com certificado
 
 ## 5. Bibliografia
 
