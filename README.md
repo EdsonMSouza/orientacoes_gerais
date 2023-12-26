@@ -14,7 +14,9 @@ Se uma atividade tiver 100 pontos possíveis e o aluno obtiver 80 pontos, a nota
 
 As atividades serão compostas por questões objetivas de múltipla escolha, dissertativas ou através do desenvolvimento de códigos (caráter prático).
 
-Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula. __A entrega da atividade, marcada como concluída, contará como presença na aula (chamada)__.
+Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula.
+
+__A entrega da atividade, marcada como concluída, contará como presença na aula (chamada)__.
 
 Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
 
