@@ -36,7 +36,7 @@ Após a correção e atribuição de nota (máximo de 100 pontos para cada ativi
 
 * __Não haverá possibilidade de recuperação__ para atividades que não forem realizadas e entregues durante a aula, exceto para casos onde o aluno possuir qualquer atestado de saúde devidamente aceito pela instiuição. Neste caso, será agendada uma data para realização de avaliação substitutiva, no final do semestre.
 
-* A ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a falta da entrega. Neste caso o aluno terá nota "zero" atribuída à atividade, bem como lançada falta na Central do Aluno.
+* A ausência em sala de aula devido a compromissos profissionais, reuniões ou qualquer outra razão que não esteja relacionada à saúde não será considerada justificativa para a não entrega da atividade. Nessas situações, o aluno receberá nota zero para a atividade em questão, além do registro da falta na Central do Aluno.
 
 * Eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada, buscando sempre não prejudicar o aluno. Ou seja, caso ocorram imprevistos, a atividade será aplicada na próxima aula e não será computada a falta.
 
