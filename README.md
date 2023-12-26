@@ -8,31 +8,37 @@ Abaixo estão algumas orientações sobre critérios de avaliação, dicas de si
 
 ## 1. Critérios de Avaliação
 
-Durante o semestre, teremos entre dez (10) e doze (12) atividades no total (no valor de 100 pontos cada), as quais serão realizadas de forma contínua durante as aulas.
-
-As atividades serão compostas por questões objetivas de múltipla escolha, dissertativas ou através do desenvolvimento de códigos (caráter prático).
+Durante o semestre, teremos entre dez (10) e doze (12) atividades no total (no valor de 100 pontos cada), as quais serão realizadas de forma contínua, __exclusivamente durante as aulas__.
 
 Se uma atividade tiver 100 pontos possíveis e o aluno obtiver 80 pontos, a nota será de 80%.
 
-Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula, onde a entrega também contará como presença na aula.
+As atividades serão compostas por questões objetivas de múltipla escolha, dissertativas ou através do desenvolvimento de códigos (caráter prático).
+
+Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula. __A entrega da atividade, marcada como concluída, contará como presença na aula (chamada)__.
 
 Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
 
-![](eq01.png)
+![equação](eq01.png)
 
 **Exemplo**:  Supondo que tenham sido aplicadas 12 atividades, e que o aluno tenha realizado 8 com pontuação máxima de 100 pontos, a nota final será:
 
-![](eq02.png)
+![exemplo de cálculo](eq02.png)
 
 Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base no valor das atividades realizadas. __Essa nota única resultante será lançada na Central do Aluno como AV1 ao final do semestre__.
 
+É importante destacar que a nota final será calculada com base nas atividades entregues, e não na presença na aula. Dessa forma, a nota final será calculada com base na quantidade de atividades entregues, e não na quantidade de aulas assistidas. Ademais, durante a importação das notas para o sistema, a nota será arredondada para o próximo valor superior de meio em meio ponto. Exemplos:
+
+* 6,666666666666667 = 7
+* 6,333333333333333 = 6,5
+* 6,1 = 6,5
+
 ## __ATENÇÃO__
 
-* __Não haverá possibilidade de recuperação__ para atividades que não forem entregues durante a aula, exceto para casos onde o aluno possuir qualquer atestado de saúde devidamente aceito pela instiuição. Neste caso, será agendada uma data para realização de avaliação substitutiva
+* __Não haverá possibilidade de recuperação__ para atividades que não forem realizadas e entregues durante a aula, exceto para casos onde o aluno possuir qualquer atestado de saúde devidamente aceito pela instiuição. Neste caso, será agendada uma data para realização de avaliação substitutiva, no final do semestre.
 
-* A ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a não realização da atividade.
+* A ausência na aula por motivos de trabalho, reunião ou qualquer outro motivo que não seja de saúde, não justificará a falta da entrega. Neste caso o aluno terá nota "zero" atribuída à atividade, bem como lançada falta na Central do Aluno.
 
-* Eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada,buscando sempre não prejudicar o aluno. Ou seja, caso ocorram imprevistos, a atividade será aplicada na próxima aula.
+* Eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada, buscando sempre não prejudicar o aluno. Ou seja, caso ocorram imprevistos, a atividade será aplicada na próxima aula e não será computada a falta.
 
 ## 2. Materiais de Apoio
 
@@ -64,6 +70,8 @@ Estou ansioso(a) para auxiliá-lo(a) em sua jornada acadêmica e espero contar c
 ## 5. Bibliografia
 
 Você pode acessar milhares de _e-books_, artigos e livros completos na biblioteca virtual da universidade, através da Central do Aluno.
+
+Durante as aulas os materiais bibliográficos específicos serão informados.
 
 ## 6. Curso de Inglês
 
