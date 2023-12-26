@@ -28,9 +28,9 @@ Após a correção e atribuição de nota (máximo de 100 pontos para cada ativi
 
 É importante destacar que a nota final será calculada com base nas atividades entregues, e não na presença na aula. Dessa forma, a nota final será calculada com base na quantidade de atividades entregues, e não na quantidade de aulas assistidas. Ademais, durante a importação das notas para o sistema, a nota será arredondada para o próximo valor superior de meio em meio ponto. Exemplos:
 
-* 6,666666666666667 = 7
-* 6,333333333333333 = 6,5
 * 6,1 = 6,5
+* 6,3 = 6,5
+* 6,6 = 7,0
 
 ## __ATENÇÃO__
 
