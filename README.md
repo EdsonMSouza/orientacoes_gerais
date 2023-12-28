@@ -8,13 +8,13 @@ Abaixo estão algumas orientações sobre critérios de avaliação, dicas de si
 
 ## 1. Critérios de Avaliação
 
-Durante o semestre, teremos entre dez (10) e doze (12) atividades no total (no valor de 100 pontos cada), as quais serão realizadas de forma contínua, __exclusivamente durante as aulas__.
+Ao longo do semestre, estão programadas entre dez (10) e doze (12) atividades, cada uma avaliada em 100 pontos, que serão conduzidas de maneira contínua, durante as aulas.
 
-Se uma atividade tiver 100 pontos possíveis e o aluno obtiver 80 pontos, a nota será de 80%.
+A pontuação final de cada atividade corresponderá à porcentagem de pontos obtidos em relação aos 100 pontos possíveis. Por exemplo, se um aluno alcançar 80 pontos em uma atividade, sua nota será de 80%.
 
-As atividades serão compostas por questões objetivas de múltipla escolha, dissertativas ou através do desenvolvimento de códigos (caráter prático).
+Essas atividades englobarão uma variedade de formatos, como questões objetivas de múltipla escolha, dissertativas e a elaboração de códigos práticos.
 
-Todas as atividades serão realizadas individualmente, permitindo uma medição contínua do aprendizado dos alunos de acordo com o grau de dificuldade de cada uma delas. As atividades deverão ser entregues exclusivamente através do Google Classroom da turma ao final de cada aula.
+__É importante ressaltar que todas as atividades serão de natureza individual__, permitindo uma avaliação contínua do progresso de cada aluno, considerando a diversidade de dificuldades apresentadas por cada uma delas. A entrega das atividades deverá ser realizada exclusivamente por meio da plataforma Google Classroom da turma ao término de cada aula.
 
 __A entrega da atividade, marcada como concluída, contará como presença na aula (chamada)__.
 
@@ -26,9 +26,9 @@ Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
 
 ![exemplo de cálculo](eq02.png)
 
-Após a correção e atribuição de nota (máximo de 100 pontos para cada atividade), o Google Classroom calculará automaticamente uma nota final única com base no valor das atividades realizadas. __Essa nota única resultante será lançada na Central do Aluno como AV1 ao final do semestre__.
+Após a correção e atribuição de nota (com um máximo de 100 pontos para cada atividade), o Google Classroom realizará automaticamente o cálculo de uma nota final consolidada, a qual será posteriormente registrada na Central do Aluno como AV1 ao término do semestre.
 
-É importante destacar que a nota final será calculada com base nas atividades entregues, e não na presença na aula. Dessa forma, a nota final será calculada com base na quantidade de atividades entregues, e não na quantidade de aulas assistidas. Ademais, durante a importação das notas para o sistema, a nota será arredondada para o próximo valor superior de meio em meio ponto. Exemplos:
+É crucial ressaltar que a nota final será derivada exclusivamente das atividades entregues, não sendo influenciada pela presença nas aulas. Assim, a avaliação final será determinada pela quantidade de atividades concluídas, não pela quantidade de aulas frequentadas. Além disso, ao importar as notas para o sistema, estas serão arredondadas para o próximo valor superior, com incrementos de meio em meio ponto. A título de exemplo:
 
 * 6,1 = 6,5
 * 6,3 = 6,5
@@ -36,31 +36,31 @@ Após a correção e atribuição de nota (máximo de 100 pontos para cada ativi
 
 ## __ATENÇÃO__
 
-* __Não haverá possibilidade de recuperação__ para atividades que não forem realizadas e entregues durante a aula, exceto para casos onde o aluno possuir qualquer atestado de saúde devidamente aceito pela instiuição. Neste caso, será agendada uma data para realização de avaliação substitutiva, no final do semestre.
+* __Não será possível realizar recuperação__ para atividades não executadas e entregues durante a aula, a menos que o aluno apresente um atestado de saúde aceito pela instituição. Nestes casos, será programada uma avaliação substitutiva ao final do semestre (formato de prova).
 
-* A ausência em sala de aula devido a compromissos profissionais, reuniões ou qualquer outra razão que não esteja relacionada à saúde não será considerada justificativa para a não entrega da atividade. Nessas situações, o aluno receberá nota zero para a atividade em questão, além do registro da falta na Central do Aluno.
+* A ausência em sala de aula devido a compromissos profissionais, reuniões ou qualquer outra razão não relacionada à saúde não será considerada justificativa para a não entrega da atividade. Nessas circunstâncias, o aluno será atribuído com nota zero para a respectiva atividade, além do registro da falta na Central do Aluno.
 
-* Eventuais imprevistos, como greves de transporte público ou questões climáticas, serão tratados individualmente para garantir uma solução adequada, buscando sempre não prejudicar o aluno. Ou seja, caso ocorram imprevistos, a atividade será aplicada na próxima aula e não será computada a falta.
+* Eventuais imprevistos, como greves no transporte público ou condições climáticas adversas, serão abordados individualmente para garantir uma solução apropriada, visando não prejudicar o aluno. Ou seja, em caso de imprevistos, a atividade será reprogramada para a próxima aula, sem a contabilização de falta.
 
 ## 2. Materiais de Apoio
 
-Com o objetivo de facilitar o aprendizado e garantir um suporte adequado, os materiais serão disponibilizados de acordo com o andamento das aulas ao longo do semestre no Google Classroom.
+Com o intuito de otimizar o processo de aprendizagem e garantir um suporte eficaz, os materiais didáticos serão progressivamente disponibilizados no Google Classroom, acompanhando o desenvolvimento das aulas ao longo do semestre.
 
-Serão disponibilizados os recursos necessários de forma organizada e progressiva, para que os alunos possam acompanhar o conteúdo de maneira eficiente e consistente. Dessa forma, cada material estará relacionado ao conteúdo apresentado em sala de aula na respectiva semana, permitindo uma conexão direta entre teoria e prática.
+Esses recursos essenciais serão apresentados de maneira organizada e sequencial, permitindo que os alunos acompanhem o conteúdo de forma eficiente e consistente. Cada material estará diretamente relacionado ao tema abordado em sala de aula na respectiva semana, estabelecendo uma ligação direta entre teoria e prática.
 
-As vantagens dessa abordagem são significativas. Primeiramente, você terá a oportunidade de revisar o conteúdo ministrado em sala de aula, reforçando os conceitos aprendidos e esclarecendo eventuais dúvidas. Além disso, os materiais de apoio serão uma valiosa ferramenta para o aprofundamento do conhecimento, ampliando o entendimento dos temas abordados e incentivando a pesquisa e o estudo autônomo.
+As vantagens dessa abordagem são notáveis. Primeiramente, proporciona a oportunidade de revisitar o conteúdo ministrado em sala, fortalecendo os conceitos aprendidos e esclarecendo possíveis dúvidas. Além disso, os materiais de apoio se tornarão ferramentas valiosas para aprofundar o conhecimento, ampliando a compreensão dos temas tratados e estimulando a pesquisa e o estudo autônomo.
 
-Os materiais de apoio estarão disponíveis ao longo do semestre, seguindo o cronograma das aulas. Dessa forma, vocês poderão acessá-los de maneira gradual, à medida que avançamos no programa da disciplina. Isso proporcionará uma experiência de aprendizado mais fluída e consistente, permitindo a assimilação progressiva do conteúdo.
+Esses recursos estarão disponíveis ao longo do semestre, alinhados ao cronograma das aulas. Dessa maneira, os alunos poderão acessá-los de forma progressiva, conforme avançamos no programa da disciplina. Essa abordagem visa proporcionar uma experiência de aprendizado fluida e consistente, permitindo a assimilação gradual do conteúdo.
 
-Outro ponto importante é que os materiais disponibilizados no Google Classroom serão complementares às aulas presenciais ou telepresenciais, oferecendo uma visão mais ampla e abrangente dos temas estudados. Por isso, incentivamos a utilização desses recursos para enriquecer sua formação acadêmica e favorecer o desenvolvimento das habilidades necessárias para o seu crescimento profissional.
+É crucial destacar que os materiais disponibilizados no Google Classroom complementarão as aulas presenciais ou telepresenciais, oferecendo uma visão mais abrangente e aprofundada dos temas estudados. Nesse sentido, incentivamos ativamente a utilização desses recursos para enriquecer a formação acadêmica dos alunos e favorecer o desenvolvimento das habilidades necessárias para seu crescimento profissional.
 
 ## 3. Dúvidas e Contato
 
-Visando facilitar a comunicação e o esclarecimento de dúvidas ao longo do semestre, utilize as ferramentas de contato diretamente no Google Classroom. Sinta-se à vontade para utilizar esses recursos para conversar comigo fora do horário das aulas. Estarei disponível para responder suas dúvidas, oferecer orientações e auxiliar no que for necessário para o seu melhor aproveitamento no curso. Acredito que essa interação contínua será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
+Com o objetivo de simplificar a comunicação e esclarecer dúvidas ao longo do semestre, incentivamos o uso das ferramentas de contato disponíveis no Google Classroom. Isso possibilita que as mensagens sejam registradas e respondidas mesmo fora do dia da aula, estabelecendo um canal eficiente para o diálogo contínuo. Além disso, oferecemos orientações e auxílio conforme necessário para otimizar sua experiência no curso. Acreditamos que essa interação constante será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
 
-Não hesite em entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para o aprimoramento do conteúdo e da dinâmica das aulas. A sua participação é muito valiosa e contribuirá para aprimorarmos ainda mais o processo de ensino-aprendizagem. Conto com o seu engajamento e disposição para aproveitar ao máximo essa oportunidade de aprendizado. Juntos, faremos deste semestre uma experiência enriquecedora e proveitosa para todos.
+Sinta-se à vontade para entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para aprimorar o conteúdo e a dinâmica das aulas. Sua participação é valiosa e contribuirá para a melhoria do processo de ensino-aprendizagem. Contamos com o seu engajamento e disposição para aproveitar ao máximo esta oportunidade de aprendizado. Juntos, tornaremos este semestre uma experiência enriquecedora e proveitosa para todos.
 
-Estou ansioso(a) para auxiliá-lo(a) em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do curso.
+Estou ansioso para auxiliar em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do semestre.
 
 ## 4. Links Interessantes
 
