@@ -16,7 +16,7 @@ Essas atividades englobarão uma variedade de formatos, como questões objetivas
 
 __É importante ressaltar que todas as atividades serão de natureza individual__, permitindo uma avaliação contínua do progresso de cada aluno, considerando a diversidade de dificuldades apresentadas por cada uma delas. A entrega das atividades deverá ser realizada exclusivamente por meio da plataforma Google Classroom da turma ao término de cada aula.
 
-__A entrega da atividade, marcada como concluída, contará como presença na aula (chamada)__.
+__A ENTREGA DA ATIVIDADE, MARCADA COMO CONCLUÍDA, CONTARÁ COMO PRESENÇA__.
 
 Desta forma, a nota __AV1__ será calculada de acordo com a seguinte fórmula:
 
