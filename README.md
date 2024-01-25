@@ -10,6 +10,8 @@ Abaixo estão algumas orientações sobre critérios de avaliação, dicas de si
 
 Ao longo do semestre, estão programadas entre dez (10) e doze (12) atividades, cada uma avaliada em 100 pontos, que serão conduzidas de maneira contínua, durante as aulas.
 
+__As atividades serão compostas por questões relacionadas a disciplina e a conhecimentos gerais (política, economia, tecnologia, entre outras).__
+
 A pontuação final de cada atividade corresponderá à porcentagem de pontos obtidos em relação aos 100 pontos possíveis. Por exemplo, se um aluno alcançar 80 pontos em uma atividade, sua nota será de 80%.
 
 Essas atividades englobarão uma variedade de formatos, como questões objetivas de múltipla escolha, dissertativas e a elaboração de códigos práticos.
