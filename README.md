@@ -56,27 +56,33 @@ Esses recursos estarão disponíveis ao longo do semestre, alinhados ao cronogra
 
 É crucial destacar que os materiais disponibilizados no Google Classroom complementarão as aulas presenciais ou telepresenciais, oferecendo uma visão mais abrangente e aprofundada dos temas estudados. Nesse sentido, incentivamos ativamente a utilização desses recursos para enriquecer a formação acadêmica dos alunos e favorecer o desenvolvimento das habilidades necessárias para seu crescimento profissional.
 
-## 3. Dúvidas e Contato
+## 3. Conexão Saber
 
-Com o objetivo de simplificar a comunicação e esclarecer dúvidas ao longo do semestre, incentivamos o uso das ferramentas de contato disponíveis no Google Classroom. Isso possibilita que as mensagens sejam registradas e respondidas mesmo fora do dia da aula, estabelecendo um canal eficiente para o diálogo contínuo. Além disso, oferecemos orientações e auxílio conforme necessário para otimizar sua experiência no curso. Acreditamos que essa interação constante será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
+É uma plataforma institucional que apresetna conteúdos para reforço sobre Portugês, Matemática, Biologia, Física e Química.
 
-Sinta-se à vontade para entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para aprimorar o conteúdo e a dinâmica das aulas. Sua participação é valiosa e contribuirá para a melhoria do processo de ensino-aprendizagem. Contamos com o seu engajamento e disposição para aproveitar ao máximo esta oportunidade de aprendizado. Juntos, tornaremos este semestre uma experiência enriquecedora e proveitosa para todos.
+É uma oportunidade de relembrar conteúdos importantes do ensino médio que são aplicados no cotidiano.
 
-Estou ansioso para auxiliar em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do semestre.
+## 4. Curso de Inglês
 
-## 4. Links Interessantes
+Da mesma forma que você pode acessar diversos materiais de forma gratuita através da Central do Aluno, também está disponível um curso de inglês da plataforma Voxy.
+
+## 5. Bibliografia
+
+Você pode acessar milhares de _e-books_, artigos e livros completos de forma gratuita na biblioteca virtual da universidade, através da Central do Aluno.
+
+Durante as aulas os materiais bibliográficos específicos serão informados.
+
+## 6. Links Interessantes
 
 * [Youtube (Edson M. Souza)](https://youtu.be/aqErh3MlJsE) - Tutorial Github
 * [School of Net](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - Controle de versão (Github)
 * [Programação](https://www.w3schools.com/) - Cursos para diversas linguagens de programação
 * [Ciência de Dados](https://www.datascienceacademy.com.br/cursosgratuitos) - Cursos de Ciência de Dados gratuitos e com certificado
 
-## 5. Bibliografia
+## 7. Dúvidas e Contato
 
-Você pode acessar milhares de _e-books_, artigos e livros completos na biblioteca virtual da universidade, através da Central do Aluno.
+Com o objetivo de simplificar a comunicação e esclarecer dúvidas ao longo do semestre, incentivamos o uso das ferramentas de contato disponíveis no Google Classroom. Isso possibilita que as mensagens sejam registradas e respondidas mesmo fora do dia da aula, estabelecendo um canal eficiente para o diálogo contínuo. Além disso, oferecemos orientações e auxílio conforme necessário para otimizar sua experiência no curso. Acreditamos que essa interação constante será fundamental para o seu progresso acadêmico e para a construção de um ambiente propício ao aprendizado.
 
-Durante as aulas os materiais bibliográficos específicos serão informados.
+Sinta-se à vontade para entrar em contato sempre que precisar de esclarecimentos ou tiver sugestões para aprimorar o conteúdo e a dinâmica das aulas. Sua participação é valiosa e contribuirá para a melhoria do processo de ensino-aprendizagem. Contamos com o seu engajamento e disposição para aproveitar ao máximo esta oportunidade de aprendizado. Juntos, tornaremos este semestre uma experiência enriquecedora e proveitosa para todos.
 
-## 6. Curso de Inglês
-
-Da mesma forma que você pode acessar diversos materiais de forma gratuita através da Central do Aluno, também está disponível um curso de inglês da plataforma Voxy.
+Estou ansioso para auxiliar em sua jornada acadêmica e espero contar com uma comunicação aberta e eficiente ao longo do semestre.
